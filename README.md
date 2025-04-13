@@ -63,9 +63,9 @@ Passo 2: Abra ele em uma IDE que suporte a linguagem Python
 
 Passo 3: Instale as bibliotecas "pytesseract" e "spellchecker"
 
-	‘pip install pytesseract pdf2image pillow’
+	pip install pytesseract pdf2image pillow
 
-	‘pip install pyspellchecker’
+	pip install pyspellchecker
 
 Passo 4: Instalar o poppler, caso não o tenha instalado em sua máquina
 
